@@ -1,4 +1,5 @@
 import angular from 'angular';
+import 'bootstrap';
 
 import '../style/app.css';
 
