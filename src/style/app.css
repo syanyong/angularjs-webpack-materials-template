@@ -1,4 +1,6 @@
 /* styles in src/style directory are applied to the whole page */
+@import "~material-design-lite/material.min.css";
+
 body {
   background: #0147A7;
   color: #fff;
@@ -9,10 +11,10 @@ a {
 }
 
 main {
-  padding: 1em;
+  padding-top: 5em;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  margin-top: 50px;
+  /*margin-top: 50px;*/
   display: block;
 }
 

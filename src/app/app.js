@@ -1,4 +1,5 @@
 import angular from 'angular';
+import 'material-design-lite';
 
 import '../style/app.css';
 
